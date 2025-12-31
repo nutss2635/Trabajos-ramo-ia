@@ -1,8 +1,0 @@
-*.ipynb text eol=lf
-*.csv text eol=lf
-*.md text eol=lf
-# Treat common binary formats as binary to avoid EOL changes
-*.png binary
-*.jpg binary
-*.jpeg binary
-*.gif binary
